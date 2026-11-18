@@ -1,0 +1,77 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_44041237_4B49_52E7_41C8_23E2763E7EF8.source = https://maps.app.goo.gl/CUcDRChNFNnystwX7
+LinkBehaviour_44046237_4B49_52E7_41B6_6723C5F61E56.source = https://www.amorygroup.com/en/
+LinkBehaviour_441BE236_4B49_52F9_41D1_30A5A248EF5A.source = https://www.linkedin.com/company/amory-development/posts/
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_FA9F79F6_EE5B_ED5D_41E6_1C5EE478DC81.url = media/map_4E0B17E4_5C11_5AAF_41B9_2C8FDF35FCF7_en_0.webp
+imlevel_FA9F59F6_EE5B_ED5D_41ED_9650ED61503E.url = media/map_4E0B17E4_5C11_5AAF_41B9_2C8FDF35FCF7_en_1.webp
+imlevel_FA9F39F6_EE5B_ED5D_41DA_736D44EAE673.url = media/map_4E0B17E4_5C11_5AAF_41B9_2C8FDF35FCF7_en_2.webp
+imlevel_FA9F29F6_EE5B_ED5D_41C0_5F710956BC0C.url = media/map_4E0B17E4_5C11_5AAF_41B9_2C8FDF35FCF7_en_3.webp
+imlevel_FA9F19F7_EE5B_ED5C_4181_68DE1BFBF5B6.url = media/map_4E0B17E4_5C11_5AAF_41B9_2C8FDF35FCF7_en_4.webp
+imlevel_FA9E1A18_EE5B_EED5_41C2_717E81D847E0.url = media/map_4FF2431E_5C11_DB9B_41D6_02F5EA5ED761_en_0.webp
+imlevel_FA81EA18_EE5B_EED5_41C0_DE9D3FA3C562.url = media/map_4FF2431E_5C11_DB9B_41D6_02F5EA5ED761_en_1.webp
+imlevel_FA81CA18_EE5B_EED5_41C6_CAC7B9EDDA9F.url = media/map_4FF2431E_5C11_DB9B_41D6_02F5EA5ED761_en_2.webp
+imlevel_FA81BA18_EE5B_EED5_41A8_AD83F1BCE2B1.url = media/map_4FF2431E_5C11_DB9B_41D6_02F5EA5ED761_en_3.webp
+imlevel_FA819A18_EE5B_EED5_41B0_BF177ED53E53.url = media/map_4FF2431E_5C11_DB9B_41D6_02F5EA5ED761_en_4.webp
+
+### Title
+panorama_E3B925B7_EE48_E5BB_41EB_0837B9011E51.label = 1
+panorama_E3BF99AB_EE48_6A54_41E2_54C3011EDD81.label = 2
+panorama_FFA9D449_EE58_3ABC_41E1_C93F75947DDA.label = 3
+panorama_FFCCD78F_EE59_E5B3_41E2_EBA8CCBB2C69.label = 4
+panorama_4AC75EB6_5C31_4A97_41D0_191FF28CA747.label = BR 01-1
+panorama_481C06CE_5C31_5AF4_41AE_4F544726DCC6.label = BR 01-2
+panorama_FC5381E4_EE78_1DD3_41E9_62E3D643D2A6.label = BR-1
+panorama_FF811B8E_EE78_2E6C_41BD_C85313718AF5.label = BR-2
+panorama_50AA217A_5C17_37A0_41B5_B9090423072B.label = Bathroom 01_1
+panorama_5794990C_5C17_3760_41CA_DE5705BFFBC7.label = Bathroom 02-1
+panorama_57610098_5C10_D560_418F_DBDFAF7E3C05.label = Bathroom 02-2
+panorama_5762D826_5C10_D5A0_41D3_A77CA09883D1.label = Bathroom 03-1
+panorama_57611FB4_5C10_CAA0_41D5_B234ABA247E6.label = Bathroom 03-2
+panorama_E0130F51_EE48_E6D8_41C6_5B0598F3E277.label = EX-1
+panorama_E09685F1_EE48_25D8_41E6_7EBAB513F75F.label = EX-2
+panorama_E0E0F66E_EE48_66C8_41E9_F3E10C009AE4.label = EX-3
+panorama_E011D6A6_EE47_E678_41DB_DCA0C3109A47.label = EX-4
+panorama_E037E41E_EE58_3A4B_41EC_B2E3FC01058A.label = EX-5
+map_4FF2431E_5C11_DB9B_41D6_02F5EA5ED761.label = FIRST FLOOR
+panorama_E01404DF_EE48_3BC0_41D9_4A130390E893.label = Foyer
+panorama_E3AC83C9_EE48_1DDA_418C_F483928A9F0F.label = GR-1
+panorama_E3B99FA6_EE48_2649_41DB_4DCC6C70A748.label = GR-2
+panorama_F2215686_E370_F2AB_41E2_12B0183EAEE9.label = GR-3
+map_4E0B17E4_5C11_5AAF_41B9_2C8FDF35FCF7.label = GROUND FLOOR
+panorama_E3A87E76_EE48_E6C9_41B1_2E682F18E055.label = MB-1
+panorama_E3A3AFD1_EE48_25C8_41D8_4FDF8FB3033F.label = MB-2
+panorama_E1D52B70_EE58_2ED1_41D0_C9188BADAEF3.label = MB-3
+panorama_EF3604D5_E2D1_DCF1_41E1_2352770DD264.label = MB-4
+panorama_EF2B0229_E2D1_D751_41E7_0018EA780FD0.label = MB-5
+panorama_5762C751_5C10_FBE3_41D1_6A9E2A8E64E0.label = Master Bathroom-1
+panorama_5762CEEF_5C10_CAA0_4193_C64B8EAE9D75.label = Master Bathroom-2
+
+## Skin
+
+### Button
+Button_457C6D5F_64D0_6790_41D7_73EA7A7C0B12.label = Contact Us
+Button_457E9D60_64D0_67B0_41D4_74152AE58FF2.label = Mini Map
+Button_457CAD5E_64D0_6790_41D5_6F4FA5BC8AFF.label = Screenshot
+
+### Label
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = VILLA MERY -  INTERIOR DESIGN
+
+### Multiline Text
+HTMLText_B96CD534_B44D_3F42_41B0_9D38CA138EB9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;"><B>{{Title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><B>{{Subtitle}}</B></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Villa MERY-Testing
